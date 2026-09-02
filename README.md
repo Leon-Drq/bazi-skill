@@ -20,7 +20,7 @@
 ## 安装
 
 ```bash
-git clone https://github.com/Leon-Drq/6yao-bazi-skill.git ~/.codex/skills/bazi-mingli
+git clone https://github.com/Leon-Drq/bazi-skill.git ~/.codex/skills/bazi-mingli
 ```
 
 也可以把本仓库目录复制到 Claude Code、Codex 或其他支持 `SKILL.md` 的 Agent skills 目录，然后调用 `$bazi-mingli`。
