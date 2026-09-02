@@ -1,0 +1,4 @@
+interface:
+  display_name: "八字四柱"
+  short_description: "排出四柱并按五行十神分析命盘结构"
+  default_prompt: "Use $bazi-mingli to build a traceable Four Pillars chart and separate calculated facts from interpretive tendencies."
